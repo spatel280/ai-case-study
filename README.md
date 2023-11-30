@@ -3,8 +3,7 @@ Module 1 Challenge
 
 ## Overview and Origin
 
-* Name of company
-Tome
+* Name of company: Tome
 
 * When was the company incorporated?
 
