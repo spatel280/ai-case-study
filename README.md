@@ -26,6 +26,7 @@ Module 1 Challenge
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
+  - Tome is a storytelling and presentation tool that uses AI to rethink the traditional way of creating presentations and telling stories. Using a prompt, Tome allows users to generate a presentation organized by a table of contents, including text, introduction slides, and AI-generated images. Tome’s aesthetics utilize a different style compared to typical PowerPoint or Google Slides presentations. [^3]
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -41,16 +42,19 @@ Module 1 Challenge
 
 * What are the other major companies in this field?
   - There are four other key players in this field: [^3]
-    1. Plus AI
-    2. Gamma
-    3. Simplified.com
-    4. Canva Magic Design
+    1. **Plus AI** – *an AI-based Google Slides presentation maker for professional presentations*
+    2. **Gamma** - *a Tome alternative for polished, professional templates*
+    3. **Simplified.com** – *a Tome alternative that goes beyond presentations*
+    4. **Canva Magic Design** – *a Tome alternative for users that want more colorful designs*
 
 [^3]: Daniel. "An introduction to Tome and alternative AI presentation tools." Plus AI, Sep. 21, 2023, https://www.plusdocs.com/blog/tome-and-alternative-ai-presentation-tools.
 
 ## Results
 
 * What has been the business impact of this company so far?
+  - The company has already amassed 10 million sign-ups in just over 9 months. [^4]
+
+[^4]: Jared Newman. "Of course AI is coming for PowerPoint now." Fast Company, Oct. 24, 2023, https://www.fastcompany.com/90971334/tome-ai-coming-for-powerpoint-now.
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
