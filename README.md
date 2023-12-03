@@ -33,10 +33,17 @@ Module 1 Challenge
   - Tome can be a useful tool for brainstorming and slide development, minimizing the need for users to come up with their own ideas and templates when using typical presentation software. [^4]
   > ***Even if you're an experienced practicioner of storytelling, that's a helpful construct.***
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-  - CEO Peiris indicates that Tome is intended for startup founders, sales people, and college students among others [^4]
-
+[^3]: Daniel. "An introduction to Tome and alternative AI presentation tools." Plus AI, Sep. 21, 2023, https://www.plusdocs.com/blog/tome-and-alternative-ai-presentation-tools.
 [^4]: Jared Newman. "Of course AI is coming for PowerPoint now." Fast Company, Oct. 24, 2023, https://www.fastcompany.com/90971334/tome-ai-coming-for-powerpoint-now.
+
+* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+  - The [Tome website](https://tome.app/) indicates that the tool could be utilized by six various groups:
+    1. **Founders & Startups**
+    2. **Creators & Freelancers**
+    3. **Marketers**
+    4. **Sales Teams**
+    5. **Product Teams**
+    6. **Education Teams or Students**
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
   - Two key factors distinguish Tome from its comeptitors: [^4]
@@ -44,13 +51,19 @@ Module 1 Challenge
     + **Younger user base** - *Accounting for one-third of its users, Gen Z users don't have the ingrained habits of using PowerPoint over multiple years, which facilitates their transition towards using newer technologies such as Tome for website designs, resumes, and presentations*
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+  - Tome has extensive integrations with apps like Figma, Looker, Framer, Giphy, YouTube, and others, as well as a modern tech stack that is ideal for leveraging large AI models, or building its own. [^5]
+  - Tome's artificial intelligence also utilizes OpenAI's ChatGPT and DALL-E 2 technology. [^6]
+
+[^5]: Richard Harris. "AI storytelling tool Tome reaches 1M users." App Developer Magazine, Feb. 27, 2023, https://appdevelopermagazine.com/Ai-storytelling-tool-tome-reaches-1m-users/.
+[^6]: Lianne Jones. "Unveiling the hidden potential of TOME AI: A practical guide." TopApps.ai, Jun. 23, 2023, https://topapps.ai/tome-ai/.
 
 ## Landscape
 
 * What field is the company in?
-  - Corporate productivity and marketing tool
+  - Corporate productivity and marketing suites
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+  - Maybe unsurprisingly, there have been minimal innovations in this presentation / storytelling industry. Microsoft has kept PowerPoint fairly stable throughout its 30+ years of dominance due to its very large user base. Google had an initial lead in AI development, but did not fully take advantage of that position to push Slides to the forefront over its 15-year existence. [^2]
 
 * What are the other major companies in this field?
   - There are four other key players in this field: [^3]
@@ -60,12 +73,11 @@ Module 1 Challenge
     4. **Canva Magic Design** – *a Tome alternative for users that want more colorful designs*
   - In addition, the existing Big Tech firms, such as Google and Microsoft, also compete in this arena.
 
-[^3]: Daniel. "An introduction to Tome and alternative AI presentation tools." Plus AI, Sep. 21, 2023, https://www.plusdocs.com/blog/tome-and-alternative-ai-presentation-tools.
-
 ## Results
 
 * What has been the business impact of this company so far?
   - The company has already amassed 10 million sign-ups in just over nine months. [^4]
+  - Other companies have already begun using Tome to develop presentation materials, such as sales decks and visual blog posts. One company in particular, Supernormal, used this software to develop a pitch deck to raise funding rounds for its own startup. [^2]
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
