@@ -90,6 +90,7 @@ Module 1 Challenge
 
 [^7]: "Tome Revenue and Competitors." Growjo, 2023, https://growjo.com/company/Tome.
 
+
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
