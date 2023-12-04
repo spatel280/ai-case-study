@@ -92,9 +92,11 @@ Module 1 Challenge
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+  - Tome could expand its education customer base by allowing teenagers and children to learn more about the world via visual exploration. Similar to ChatGPT, kids could ask Tome to build a visual story based on requested inputs, to explain a concept visually using textbook definitions, or draw up diagrams for set plays used in their sports competitions.
+  - For more professional use cases, Tome could partner with famous design teams (e.g., painters, sculptors, architects, etc.) to develop better training sets and samples that could be integrated into their product outputs.
 
 * Why do you think that offering this product or service would benefit the company?
+  - Providing these offerings would enable people without the necessary "creative" sense to take their idea and progress it further in development. It would facilitate learning, teaching, and teaming. How many times have we tried to express an idea that we have visually developed in our minds but are unable to explain verbally or quickly visually? These kind of solutions would solve that for many folks, thus greatly expanding the customer base for Tome.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* What technologies would this additional product or service utilize? Why are these technologies appropriate for your solution?
+  - Their existing technologies should be adequate enough to provide the offerings I've mentioned - the key area of difference would be the data utilized to train the AI. Adding more data (especially copyrighted works from other designers) would enable the AI to produce an expanded set of options.
