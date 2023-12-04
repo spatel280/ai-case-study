@@ -1,6 +1,7 @@
 # ai-case-study
 Module 1 Challenge
 
+
 ## Overview and Origin
 
 * Name of company
@@ -24,7 +25,6 @@ Module 1 Challenge
 * How is the company funded? How much funding have they received?
   - In February 2023, Tome raised $43 million in a Series B funding round led by Lightspeed Venture Partners along with a bevy of other investors including Coatue, Greylock, Stability.ai CEO Emad Mostaque, and former Google CEO Eric Schmidt. The round values Tome at $300 million post-investment, up from $175 million at its 2021 Series A round. The company has done all this without making a single dollar in sales. [^2]
 
-  > ***Now valued at $300 million while still pre-revenue...Tome says it’s the fastest productivity software maker to ever reach 1 million users since its September release (134 days after launch).*** [^2]
 
 ## Business Activities
 
@@ -57,6 +57,7 @@ Module 1 Challenge
 [^5]: Richard Harris. "AI storytelling tool Tome reaches 1M users." App Developer Magazine, Feb. 27, 2023, https://appdevelopermagazine.com/Ai-storytelling-tool-tome-reaches-1m-users/.
 [^6]: Lianne Jones. "Unveiling the hidden potential of TOME AI: A practical guide." TopApps.ai, Jun. 23, 2023, https://topapps.ai/tome-ai/.
 
+
 ## Landscape
 
 * What field is the company in?
@@ -73,15 +74,20 @@ Module 1 Challenge
     4. **Canva Magic Design** – *a Tome alternative for users that want more colorful designs*
   - In addition, the existing Big Tech firms, such as Google and Microsoft, also compete in this arena.
 
+
 ## Results
 
-* What has been the business impact of this company so far?
-  - The company has already amassed 10 million sign-ups in just over nine months. [^4]
+* What has been the business impact of this company so far? What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+  - Typical business metrics for early-stage startups include number of monthly users, amount of funding raised, and AI accuracy and precision.
+  - Nine months after its release, Tome had already amassed 10 million sign-ups. [^4]
+  > ***Now valued at $300 million while still pre-revenue...Tome says it’s the fastest productivity software maker to ever reach 1 million users since its September (2022) release (134 days after launch).*** [^2]
   - Other companies have already begun using Tome to develop presentation materials, such as sales decks and visual blog posts. One company in particular, Supernormal, used this software to develop a pitch deck to raise funding rounds for its own startup. [^2]
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
 * How is your company performing relative to competitors in the same field?
+  - According to Growjo, Tome seems to be a leading company in this space, with sizable projected revenue, employee growth, funding levels, and company valuation [^7]
+  - <a  href="https://growjo.com/company/Tome"><img style="width: 125px;" src="https://growjo.com/static/badges/growjo-leader-fall23.png" /></a>
+
+[^7]: "Tome Revenue and Competitors." Growjo, 2023, https://growjo.com/company/Tome.
 
 ## Recommendations
 
